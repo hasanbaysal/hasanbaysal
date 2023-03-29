@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **C# Asp.net Core E-F Core SQL JavaScript Identity OOP**
+- 💬 Ask me about **C# Asp.net Core EFCore SQL JavaScript Identity OOP**
 
 - 📫 How to reach me **hasan.baysall@gmail.com**
 
