@@ -25,10 +25,10 @@
 - [Asp.Net Core File Approaches Streming and Buffering](https://github.com/hasanbaysal/Streaming-And-Buffering-Approaches-File-Upload-).
 - [Asp.Net Core MVC Basic Todo App classic N-Tier Architecture](https://github.com/hasanbaysal/HB.TodoApp).
 - [Csharp WinForm LinkSaverApp](https://github.com/hasanbaysal/LinkSaveR).
-- [Simple Jwt Token Implementation and Cqrs Pattern](https://github.com/hasanbaysal/HB.CqrsJwtApp).
+- [Asp.Net Core Mvc PartialView with Ajax Basic Example](https://github.com/hasanbaysal/PartialViewWithAjax).
 - [Asp.Net Core Simple Jwt Token Implementation and Cqrs Pattern](https://github.com/hasanbaysal/HB.CqrsJwtApp).
 - [CSharp WinForm Cost Control Application](https://github.com/hasanbaysal/TarlaOtomasyonProjesi).
 - [Uml Class Diagrams My Notes](https://github.com/hasanbaysal/Uml-Class-Diagrams).
 - [TSQL Tutorial => Dll - Dml -  Dql - Trigger - Sp - Transaction - Views - Constraints](https://github.com/hasanbaysal/Example-Db-Script).
-- [Asp.Net Core Mvc PartialView with Ajax Basic Example](https://github.com/hasanbaysal/PartialViewWithAjax).
+
 
