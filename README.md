@@ -21,6 +21,7 @@
 ### Projects
 
 - [Asp.Net Core MVC App N-Tier Arch with Custom Cookie Based auth](https://github.com/hasanbaysal/HB.AdvertisementApp).
+- [Jwt Authentication Server Example](https://github.com/hasanbaysal/Hb.AuthServer)
 - [Asp.Net Core Identity sample](https://github.com/hasanbaysal/Identity-Sample).
 - [Asp.Net Core File Approaches Streming and Buffering](https://github.com/hasanbaysal/Streaming-And-Buffering-Approaches-File-Upload-).
 - [Asp.Net Core MVC Basic Todo App classic N-Tier Architecture](https://github.com/hasanbaysal/HB.TodoApp).
